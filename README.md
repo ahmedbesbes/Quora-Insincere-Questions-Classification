@@ -12,7 +12,7 @@ Both are implemented in PyTorch.
 
 - Solution n°2:
 
-  I propose a more sophisticated model that achieves better validation F1 score (see end of the notebook)
+  A more sophisticated model that achieves better validation F1 score (see end of the notebook)
   
   Improvements include:
 
@@ -20,5 +20,3 @@ Both are implemented in PyTorch.
   - A custom tokenizer based on Spacy and its english language model
   - A FastText binary model to initialize an embedding matrix from character-ngrams (i.e. no out-of-vocabulary words)
   - A stacked bi-LSTM architecture
-
-Don't hesitate to improve.
