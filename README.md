@@ -2,7 +2,7 @@
 
 
 
-Two tutorial solutions to solve the Kaggle competition: **Quora Insincere Questions Classification**
+Two tutorial solutions to solve the <a href="https://www.kaggle.com/c/quora-insincere-questions-classification"> Kaggle competition</a>: **Quora Insincere Questions Classification**
 
 Both are implemented in PyTorch.
 
