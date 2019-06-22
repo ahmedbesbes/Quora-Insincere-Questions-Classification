@@ -4,6 +4,8 @@
 
 Two tutorial solutions to solve the <a href="https://www.kaggle.com/c/quora-insincere-questions-classification"> Kaggle competition</a>: **Quora Insincere Questions Classification**
 
+<img src="images/quora-kaggle.png">
+
 Both are implemented in PyTorch.
 
 - Solution n°1:
